@@ -3,3 +3,9 @@
  Author will be not responsible for any damage!
 
 This script is written in Perl this is very good admin page finder.
+git clone
+ https://github.com/AppoPro/Admin-Control-Panel-Finder
+
+İs
+
+
